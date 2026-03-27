@@ -1,19 +1,19 @@
-# Hi, I'm Farid (r2pipe)
+# Hi, I'm Farid (sp3ct3r)
 
-ITT Engineer and cybersecurity student focused on low-level systems knowledge.
+ITT Engineer and cybersecurity student focused on low-level systems knowledge and reverse engineering fundamentals.
 
-## Current learning path
+## Current learning focus
 
 - C programming
-- Memory fundamentals
-- Reverse engineering preparation
+- Memory and pointers
 - Linux internals
-- Red Team mindset development
+- Reverse engineering preparation
+- Red Team mindset
 
-## Goals
+## Long-term direction
 
-Build strong low-level intuition and become a reverse engineering oriented security specialist.
+Develop strong low-level intuition and become a reverse-engineering-oriented security specialist.
 
-## Projects
+## Repositories
 
-- C-Lessons → structured C learning repository
+- C-Lessons → structured low-level C learning path
