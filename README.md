@@ -1,8 +1,8 @@
 ### Hello 🌎, I'm Farid (r2pipe)
 
 ITT Engineer | Cybersecurity student focused on low-level systems, reverse engineering, and information security.  
-Completed: **NPTEL Digital System Design** → foundational hardware knowledge  
 Learning path: C/C++ → Memory & Pointers → Linux Internals → Reverse Engineering → Red Team mindset  
+Background: foundational hardware knowledge from self-study and online courses  
 Future plan: OS design, deep system internals, hardware-software interactions  
 
 - 🔭 I’m currently working on **C-Lessons** → structured C exercises with annotated explanations  
