@@ -6,16 +6,6 @@ ITT Engineer | Cybersecurity Student focused on low-level systems, reverse engin
 Learning path: **C/C++ → Low-level mindset → Reverse Engineering → Red Team mindset**   
 Future plan: **OS design, deep system internals, hardware-software interactions**
 
-### Languages & Tools
-
-| Category | Tools |
-|----------|-------|
-| **Programming** | ![C](https://skillicons.dev/icons?i=c,cpp,python,bash) |
-| **Reverse Engineering** | ![Ghidra](https://skillicons.dev/icons?i=ghidra,radare2) |
-| **Linux & OS** | ![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian) |
-| **Version Control** | ![Git](https://skillicons.dev/icons?i=git,github) |
-| **Other Tools** | ![VSCode](https://skillicons.dev/icons?i=vscode) |
-
 ---
 
 <p align="left">
