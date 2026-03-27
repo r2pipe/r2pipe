@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Farid (r2pipe)
 
-<!--
-**r2pipe/r2pipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ITT Engineer and cybersecurity student focused on low-level systems knowledge.
 
-Here are some ideas to get you started:
+## Current learning path
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C programming
+- Memory fundamentals
+- Reverse engineering preparation
+- Linux internals
+- Red Team mindset development
+
+## Goals
+
+Build strong low-level intuition and become a reverse engineering oriented security specialist.
+
+## Projects
+
+- C-Lessons → structured C learning repository
