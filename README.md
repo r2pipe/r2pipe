@@ -1,65 +1,50 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Renato Resabala
+### Hello 🌎, I'm Farid (sp3ct3r)
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+ITT Engineer | Cybersecurity student focused on low-level systems, reverse engineering, and information security.  
+Learning path: C/C++ → Memory & Pointers → Linux Internals → Reverse Engineering → Red Team mindset.  
 
-
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
-
+- 🔭 I’m currently working on **C-Lessons** → structured C exercises with annotated explanations  
+- 🌱 I’m currently learning low-level memory fundamentals, Linux internals, and reversing techniques  
+- 💬 Ask me about **C, C++, Linux, Reverse Engineering, Red Team, Low-Level Programming**  
+- ⚡ Fun fact: I enjoy exploring system internals and uncovering hidden program behaviors  
 
 <p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
+<a href="https://twitter.com/your_twitter" target="blank"><i align="center" class="devicon-twitter-original" height="40" width="60"></i></a>
+<a href="https://www.linkedin.com/in/your_linkedin/" target="blank"><i align="center" class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
+<a href="https://www.youtube.com/your_youtube" target="blank"><i align="center" class="devicon-youtube-original colored" height="40" width="60"></i></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r2pipe&label=Profile%20views&color=0e75b6&style=flat" alt="r2pipe" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
-    </tr>
+<tr>
+  <td style="font-weight:bold; padding-right:10px;">Programming:</td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,bash"/></td>
+</tr>
+<tr>
+  <td style="font-weight:bold; padding-right:10px;">Reverse Engineering:</td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=ghidra,radare2,x64dbg,ida"/></td>
+</tr>
+<tr>
+  <td style="font-weight:bold; padding-right:10px;">Linux & Tools:</td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=linux,kali,vscode,git,github"/></td>
+</tr>
+<tr>
+  <td style="font-weight:bold; padding-right:10px;">Other Skills:</td>
+  <td><img height="40" src="https://skillicons.dev/icons?i=docker,virtualbox,wireshark,metasploit"/></td>
+</tr>
 </table>
 
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
+---
+
+**Repositories:**
+
+- **C-Lessons** → structured C learning path with annotated exercises in Azerbaijani  
+- Future repos will focus on reverse engineering, Red Team tools, and low-level systems  
+
+---
+
+Farid Aslanli | ITT Engineer | Cybersecurity Student | Reverse Engineering & Red Team Enthusiast
